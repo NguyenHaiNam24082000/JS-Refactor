@@ -1,2 +1,1 @@
-# JS-Refactor
-Refactoring JavaScript and TypeScript
+# JavaScript Refactoring: The Fundamentals
